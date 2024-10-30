@@ -23,7 +23,7 @@ client = JsonvaluetesterClient(
 )
 ```
 
-## Json Value Tester Client
+## JsonValueTester Client
 
 The gateway for the SDK. This class acts as a factory for the Controllers and also holds the configuration of the SDK.
 
